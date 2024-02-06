@@ -16,8 +16,8 @@ class SplashScreen extends StatelessWidget {
         child: Center(
           child:
             Column(
-                mainAxisAlignment: MainAxisAlignment.center, // untuk keseluruhannya rata mana
-                crossAxisAlignment: CrossAxisAlignment.center, // untuk antar elementnya rata apa
+                mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
               Text(
                 'Quran App',
